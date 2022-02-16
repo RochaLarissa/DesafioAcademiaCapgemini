@@ -1,6 +1,6 @@
 # DesafioAcademiaCapgemini
 
-Todas as questões foram feitas utilizando Java, JDK 15.0.2
+Todas as questões foram feitas utilizando Java JDK 15.0.2, IDE Eclipse 4.20.0
 
 Foi utilizada a API Java Util Scanner para a entrada de dados, enquanto a saída de dados é feita no próprio console.
 
